@@ -12,5 +12,8 @@ public class APP {
         new GameJFrame();
 
         System.out.println(Runtime.getRuntime().freeMemory()/1024/1024);
+
+
+        System.out.println("ok success!!!!push!!!");
     }
 }
